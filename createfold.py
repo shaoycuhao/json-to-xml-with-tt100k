@@ -5,7 +5,7 @@ Created on Thu Jul  1 16:29:39 2021
 @author: DELL
 """
 import os
-file_path=os.path.abspath(r"D:\Shaoooooo\tt100k_2021\tt100k_2021\newxml\trains")
+file_path=os.path.abspath(r"D:\Shaoooooo\tt100k_2021\tt100k_2021\newxml\trains") #change your own path
 dict = {'w1','w2','w3','w4','w5','w6','w7','w8','w9','w10','w11','w12','w13','w14','w15'\
             ,'w16'\
 ,'w17'\
